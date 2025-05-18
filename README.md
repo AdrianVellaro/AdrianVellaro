@@ -6,7 +6,7 @@ I'm currently learning Java and building beginner projects to improve my coding 
 
 ## 📚 Learning Journey
 
-Here’s what I’m working through step-by-step:
+Here’s what I’m working through step-by-step (btw this is not THAT accurate, I just asked AI to generate this for me since I'm a lazy sack of shit.):
 
 ### ✅ Basics of Java
 - [x] Printing text with `System.out.println`
@@ -45,8 +45,6 @@ Here are some of the projects I've built or am experimenting with:
 - 🔢 **Calculator2.java** – Console calculator with multiple operations
 - 🎶 **PlaylistShuffle.java** – Random playlist shuffle simulator
 - 💼 **MainBank.java & savingsAccount.java** – Starting to explore banking logic in OOP
-
----
 
 ---
 
