@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Adrian!
+# 👋 Hi there, I'm Adrian! (my real name totally)
 
 I'm currently learning Java and building beginner projects to improve my coding skills. I wanna become a backend developer in the future! (lofty goal I know).
 
@@ -6,30 +6,15 @@ I'm currently learning Java and building beginner projects to improve my coding 
 
 ## 📚 Learning Journey
 
-Here’s what I’m working through step-by-step (btw this is not THAT accurate, I just asked AI to generate this for me since I'm a lazy sack of shit.):
+blah blah blah
 
 ### ✅ Basics of Java
-- [x] Printing text with `System.out.println`
-- [x] Using variables and data types
-- [x] Conditionals (`if`, `else`, `switch`)
-- [x] Loops (`for`, `while`)
-- [x] Random number generation
-- [x] Getting user input with `Scanner`
+- bullshit here
 
 ### 🔄 Intermediate Concepts
-- [x] Creating and calling methods
-- [x] Organizing code into classes
-- [x] Access modifiers and method return types
-- [ ] Constructors and instance variables
-- [ ] Simple error handling (`try` / `catch`)
-- [ ] Basic arrays and loops with arrays
-
+- bullshit here
 ### 🧱 Object-Oriented Programming (OOP)
-- [ ] Creating objects from classes
-- [ ] Understanding `this` keyword
-- [ ] Using inheritance and subclasses
-- [ ] Overriding methods
-- [ ] Encapsulation and access control
+- bullshit here
 
 ---
 
